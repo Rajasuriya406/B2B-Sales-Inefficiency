@@ -1,6 +1,6 @@
-#B2B Sales Analytics — Revenue Concentration & ICP Optimization
+# B2B Sales Analytics — Revenue Concentration & ICP Optimization
 
-##Project Overview
+## Project Overview
 
 This project analyzes a B2B sales pipeline to identify revenue concentration risks, evaluate sales performance drivers, and define a data-backed Ideal Customer Profile (ICP).
 The objective was to move beyond surface-level metrics (top performers, win rates) and identify what truly drives revenue growth using business metrics.
@@ -36,7 +36,10 @@ Revenue imbalance is caused by account allocation & ICP alignment, not sales exe
 Business terms:
 Revenue is highly concentrated, with Top 10 employees Closing 50%($5M USD) creating an organizational risk,however the problem is not skill gap  which is explained below. 
 
-📌 Dashboard: Revenue by Sales Rep (Top N)
+![Revenue Concentration]<img width="655" height="353" alt="Screenshot 2025-12-14 213333" src="https://github.com/user-attachments/assets/b6aa4d3c-7b20-42c3-9464-b931edf929d2" />
+
+ Dashboard: Revenue by Sales Rep (Top N)![Uploading Screenshot 2025-12-14 213333.png…]()
+
 
 ## 2.Sales Rep Performance: No Skill Gap
 
@@ -50,7 +53,9 @@ Insight (Win Rate):
 Business terms:
 65% percent of the deals are closed in average indicates efficiency regardless perfomance tier, so revenue differencers are not caused by execution quality or sales skills.
 
-📌 Dashboard: Win Rate by Performer Segment
+![Sales Rep Performance]<img width="1251" height="793" alt="image" src="https://github.com/user-attachments/assets/31f34d9d-b8b0-4361-87a9-c025fbc09c1c" />
+
+ Win Rate by Performer Segment
 
 ## 3️.Deal Size Drives Revenue Inequality
 
@@ -64,8 +69,12 @@ Business Meaning:
 Top reps generate more revenue because they handle larger-value accounts, not because they close better.
 This points to account quality and ICP allocation as the root issue.
 
-📌 Dashboard: Avg Deal Size by Performer Segment
-📌 Dashboard: Win Rate vs Avg Deal Size (Scatter)
+<img width="896" height="788" alt="image" src="https://github.com/user-attachments/assets/e81381e7-882e-4af9-bf84-a4bd53709f29" />
+ Avg Deal Size by Performer Segment
+
+
+<img width="933" height="780" alt="image" src="https://github.com/user-attachments/assets/1465531f-6a04-4266-aa88-81008703ba5c" />
+Win Rate vs Avg Deal Size (Scatter)
 
 ## 4️. Pipeline Health Is Strong
 
@@ -80,7 +89,8 @@ Business Meaning:
 A 48% win rate indicates a healthy B2B pipeline.
 Loss rates are normal and do not signal pipeline leakage or sales inefficiency.
 
-📌 Dashboard: Deal Stage Distribution
+<img width="661" height="481" alt="image" src="https://github.com/user-attachments/assets/bb9f2201-f1a0-43ff-a5e5-4bf93a2f0737" />
+Deal Stage Distribution
 
 ## 5️.ICP Analysis: Clear Revenue Signal
 
@@ -99,8 +109,11 @@ Revenue by Company Revenue Band:
 ICP Definition :
 Large enterprises with mid-to-high annual revenue, where deal size—not win probability—drives revenue growth.
 
-📌 Dashboard: Revenue by Company Size
-📌 Dashboard: Revenue by Revenue Band
+<img width="801" height="782" alt="image" src="https://github.com/user-attachments/assets/31201395-4956-416f-8092-ef7e0bbd3d7d" />
+Revenue by Company Size
+
+<img width="683" height="770" alt="image" src="https://github.com/user-attachments/assets/b50e30a2-1abd-4269-a7b5-72d5c2dfa7b6" />
+ Revenue by Revenue Band
 
 ## Final Business Problem :
 
